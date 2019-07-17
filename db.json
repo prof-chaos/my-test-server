@@ -1,3 +1,14 @@
 {
-  "key": "value"
+  "users": 
+    [
+      {
+        "id": 1,
+        "name": "prof"
+      },
+      {
+        "id": 2,
+        "name": "chaos"
+      },
+      
+    ];
 }
